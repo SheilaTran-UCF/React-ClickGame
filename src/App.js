@@ -17,10 +17,8 @@ import "./App.css";
       topScore: 0
     };
 
-    // componentDidMount() {
-    // }
 
-  //when you click on a card ... the fish is taken out of the array
+  //when you click on a Fish ... the fish is taken out of the array
     imageClick = event => {
       const currentFish = event.target.alt;
       const CarAlreadyClicked =
@@ -49,7 +47,7 @@ import "./App.css";
             clickedFish: this.state.clickedFish.concat(
               currentFish
             ),
-            message: "Good Try!",
+            message: "Nice Try!",
             score: this.state.score + 1
           },
 
@@ -72,7 +70,7 @@ import "./App.css";
       }
     };
 
-  //the order of components to be rendered: navbar, jumbotron, friendcard, footer 
+  //the order of components to be rendered: Navbar, jumbotron, FishCart, footer 
     render() {
       return (
         <div>
@@ -91,6 +89,7 @@ import "./App.css";
                 image={fish.image}
               />
             ))}
+
           </div>
           <Footer />
         </div>
