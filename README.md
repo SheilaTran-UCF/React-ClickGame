@@ -50,3 +50,4 @@ For this assignment, you'll create a memory game with React. This assignment wil
 <img src="./src/images/Capture.PNG" width="100%">
 <img src="./src/images/Capture1.PNG" width="100%">
 <img src="./src/images/Capture2.PNG" width="100%">
+<a href="https://sheilatran-ucf.github.io/React-ClickGame/">Link: https://sheilatran-ucf.github.io/React-ClickGame/</a>

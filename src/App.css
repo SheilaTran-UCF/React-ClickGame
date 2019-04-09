@@ -2,8 +2,8 @@
 body {
   font-family: "Oswald", sans-serif !important;
   background: var(--mainWhite) !important;
-  color: var(--mainDark) !important;
-}
+  color: var(--mainDark) !important; 
+} 
 
 .wrapper {
   width: 100%;
