@@ -1,0 +1,9 @@
+.header {
+    background-color: rgba(40, 245, 67, 0.959);
+    color: blue;
+    max-height: 300px;
+    padding: 130px 20px;
+    padding-bottom: 140px;
+    text-align: center;
+}
+
