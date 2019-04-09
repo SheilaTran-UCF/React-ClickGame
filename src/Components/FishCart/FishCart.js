@@ -7,7 +7,7 @@ import "./FishCart.css";
 const FishCart = props => (
   <div className="card" onClick={props.imageClick}>
     <div className="img-container">
-      <img alt={props.image.replace(".jpeg", "")} src={require("../../images/" + props.image)} width={"220px"} height={"150px"}/>
+    <img alt={props.image.replace(".jpeg", "")} src={require("../../images/" + props.image)} width={"220px"} height={"150px"}/>
     </div>
   </div>
 );
