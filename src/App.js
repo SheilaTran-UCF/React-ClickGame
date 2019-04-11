@@ -51,7 +51,7 @@ import "./App.css";
             score: this.state.score + 1
           },
 
-    //if you get all 12 fish corrent you get a congrats message and the game resets        
+    //if you get all 12 fish current you get a congrats message and the game resets        
           () => {
             if (this.state.score === 12) {
               // alert("You guessed correctly!");
