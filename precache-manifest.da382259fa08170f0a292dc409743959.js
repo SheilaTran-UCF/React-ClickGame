@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a113ea63a594bd04f352",
-    "url": "/React-ClickGame/static/css/main.5852139e.chunk.css"
+    "revision": "cc808004c6865e06e8ee",
+    "url": "/React-ClickGame/static/css/main.62c94f97.chunk.css"
   },
   {
-    "revision": "a113ea63a594bd04f352",
-    "url": "/React-ClickGame/static/js/main.ddfff36d.chunk.js"
+    "revision": "cc808004c6865e06e8ee",
+    "url": "/React-ClickGame/static/js/main.2d9a2420.chunk.js"
   },
   {
     "revision": "276bf63f704bc7481f58",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/React-ClickGame/static/js/2.6efc73d3.chunk.js"
   },
   {
-    "revision": "b012e1b590e0e715480cc497cb3b11f6",
-    "url": "/React-ClickGame/static/media/Capture.b012e1b5.PNG"
+    "revision": "4acc9417b261a7e7948a7415f5c586d9",
+    "url": "/React-ClickGame/static/media/Capture.4acc9417.PNG"
   },
   {
     "revision": "8b8620a081c7b130711976771dd4f79b",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/React-ClickGame/static/media/image9.0ea36d91.jpeg"
   },
   {
-    "revision": "f2a17e4b8cfb1a412bfe5470230a6221",
+    "revision": "2c9398bfa5e6bfb17ebd744a04ba7684",
     "url": "/React-ClickGame/index.html"
   }
 ];
